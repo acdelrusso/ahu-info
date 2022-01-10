@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Displaycard.css"],"names":[],"mappings":"AAAA,MACI,wBAAyB,CACzB,kBAAmB,CACnB,eAAgB,CAChB,YACJ","file":"main.957a8534.chunk.css","sourcesContent":[".card {\r\n    background-color:#BB8082 ;\r\n    border-radius: 20px;\r\n    margin-top: 2rem;\r\n    padding: 2rem;\r\n}"]}
